@@ -44,7 +44,7 @@ To train the model, run the `job_script.sh` bash script and modify the command-l
 
 ## Related Work
 
-For further context on this approach, refer to the preprint: [Title of the Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112948) for more details on the theoretical foundations and experimental results.
+For further context on this approach, refer to the preprint: The Computation of Generalized Embeddings for Underwater Acoustic Target Recognition Using Contrastive Learning (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112948) for more details on the theoretical foundations and experimental results.
 
 
 
